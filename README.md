@@ -1,0 +1,10 @@
+C
+Python
+Oops
+java
+SQL
+MYSQL
+DBMS
+HTML
+CSS
+JAVA SCRIPT
